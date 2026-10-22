@@ -1,6 +1,6 @@
 CC BY-NC-SA 4.0
 
-授权红队演练脱敏公开版 — 《二战风云2》活动奖励链路安全研究
+漏洞修复后技术公开版 — 《二战风云2》活动奖励链路安全研究
 
 You are free to:
   Share - copy and redistribute the material in any medium or format
@@ -14,7 +14,11 @@ Under the following terms:
 Full text: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 LEGAL NOTICE
-This document is a redacted publication of an authorized red-team engagement.
+This document is a post-remediation technical publication of an authorized
+red-team engagement. The defect it describes was observed, reported, and
+fixed on the server side before publication; the author does not claim that
+the described behaviour remains reproducible.
+
 It is provided for defensive security research and educational purposes only.
 Unauthorized use of the techniques discussed against systems you do not own
 or lack written permission to test is illegal. The author assumes no liability
